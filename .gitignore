@@ -1,0 +1,5 @@
+# Ignora la cartella node_modules
+__pycache__
+
+# Ignora i file collegati alle chiavi API
+.env
